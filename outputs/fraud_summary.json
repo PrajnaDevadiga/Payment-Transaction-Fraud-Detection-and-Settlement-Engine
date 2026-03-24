@@ -1,0 +1,8 @@
+{
+  "total_transactions": 16,
+  "valid_transactions": 13,
+  "fraud_transactions": 3,
+  "high_value_frauds": 1,
+  "cross_border_frauds": 1,
+  "rapid_transaction_frauds": 0
+}

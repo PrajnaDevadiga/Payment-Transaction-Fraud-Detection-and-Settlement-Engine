@@ -1,0 +1,11 @@
+merchant_id,merchant_name,merchant_category,country,status
+M001,Amazon Store,Ecommerce,USA,ACTIVE
+M002,Flipkart Hub,Ecommerce,India,ACTIVE
+M003,Tech World,Electronics,USA,ACTIVE
+M004,Gadget Plaza,Electronics,India,ACTIVE
+M005,CryptoMart,Finance,Singapore,ACTIVE
+M006,QuickShop,Retail,India,BLOCKED
+M007,Fashion Hub,Retail,UK,ACTIVE
+M008,Mobile Planet,Electronics,India,ACTIVE
+M009,Book Bazaar,Books,USA,ACTIVE
+M010,Daily Mart,Retail,India,ACTIVE

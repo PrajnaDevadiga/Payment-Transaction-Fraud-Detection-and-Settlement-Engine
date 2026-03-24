@@ -1,0 +1,11 @@
+merchant_id,merchant_name,total_transactions,valid_transactions,fraud_transactions,settlement_amount
+M001,Amazon Store,4,4,0,8700
+M002,Flipkart Hub,2,2,0,54800
+M003,Tech World,2,0,2,0
+M004,Gadget Plaza,3,3,0,6500
+M005,CryptoMart,1,0,1,0
+M006,QuickShop,0,0,0,0
+M007,Fashion Hub,1,1,0,7200
+M008,Mobile Planet,1,1,0,1300
+M009,Book Bazaar,1,1,0,450
+M010,Daily Mart,1,1,0,900

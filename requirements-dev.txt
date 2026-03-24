@@ -1,0 +1,5 @@
+pytest
+
+# Optional for coverage reporting:
+# pytest-cov
+

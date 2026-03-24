@@ -1,0 +1,16 @@
+2026-03-21 10:27:41,468 WARNING Invalid transaction rejected: blocked merchant_id=M006 tx_id=T016
+2026-03-21 10:27:41,468 WARNING Invalid transaction rejected: negative/invalid amount tx_id=T017 merchant_id=M003 amount=-500
+2026-03-21 10:27:41,468 WARNING Invalid transaction rejected: invalid transaction_time tx_id=T018 transaction_time=invalid_time
+2026-03-21 10:27:41,468 WARNING Invalid transaction rejected: unknown merchant_id=M999 tx_id=T019
+2026-03-22 21:31:06,801 WARNING Invalid transaction rejected: blocked merchant_id=M006 tx_id=T016
+2026-03-22 21:31:06,801 WARNING Invalid transaction rejected: negative/invalid amount tx_id=T017 merchant_id=M003 amount=-500
+2026-03-22 21:31:06,801 WARNING Invalid transaction rejected: invalid transaction_time tx_id=T018 transaction_time=invalid_time
+2026-03-22 21:31:06,801 WARNING Invalid transaction rejected: unknown merchant_id=M999 tx_id=T019
+2026-03-24 11:13:40,948 WARNING Invalid transaction rejected: blocked merchant_id=M006 tx_id=T016
+2026-03-24 11:13:40,948 WARNING Invalid transaction rejected: negative/invalid amount tx_id=T017 merchant_id=M003 amount=-500
+2026-03-24 11:13:40,964 WARNING Invalid transaction rejected: invalid transaction_time tx_id=T018 transaction_time=invalid_time
+2026-03-24 11:13:40,964 WARNING Invalid transaction rejected: unknown merchant_id=M999 tx_id=T019
+2026-03-24 12:16:46,802 WARNING Invalid transaction rejected: blocked merchant_id=M006 tx_id=T016
+2026-03-24 12:16:46,802 WARNING Invalid transaction rejected: negative/invalid amount tx_id=T017 merchant_id=M003 amount=-500
+2026-03-24 12:16:46,823 WARNING Invalid transaction rejected: invalid transaction_time tx_id=T018 transaction_time=invalid_time
+2026-03-24 12:16:46,823 WARNING Invalid transaction rejected: unknown merchant_id=M999 tx_id=T019

@@ -1,0 +1,9 @@
+Fraud Summary Visualization
+===========================
+
+Total Transactions         | ################################ 16
+Valid Transactions         | ##########################       13
+Fraud Transactions         | ######                           3
+High Value Frauds          | ##                               1
+Cross Border Frauds        | ##                               1
+Rapid Transaction Frauds   |                                  0
