@@ -27,11 +27,6 @@ def apply_fraud_rules(
 ) -> List[Dict[str, Any]]:
     """
     Apply fraud rules to transactions that already passed validation.
-
-    Adds:
-      - fraud_flag (bool)
-      - fraud_reason (string of triggered rules)
-      - transaction_status (VALID/SUSPICIOUS)
     """
     logger = logger or logging.getLogger(__name__)
 
